@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hysi</string>
+    <string name="app_subtitle">«Have You Seen It?»</string>
+    <string name="description">Find your lost objects and help others to find their own.</string>
+    <string name="formato_direccion">Street, city</string>
+
+    <!-- Errores varios -->
+    <string name="error_calle_no_comprobada">
+        Could not validate street. Try again later.
+    </string>
+    <string name="error_calle_no_valida">Invalid city</string>
+
+    <!-- Textos de la pantalla de login -->
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_entrar">Enter</string>
+    <string name="login_no_tienes_cuenta">Don\'t have an account?</string>
+    <string name="login_registrate">Sign up</string>
+    <string name="login_error">Invalid username or password</string>
+
+    <!-- Textos de la pantalla de registro -->
+    <string name="registro_titulo">Sign up now on Hysi</string>
+    <string name="registro_rep_password">Repeat your password</string>
+    <string name="registro_calle">Address</string>
+    <string name="registro_confirmar">Sign up</string>
+    <string name="registro_ya_tienes_cuenta">Have you got an account?</string>
+    <string name="registro_login">Login</string>
+    <string name="registro_error_usuario_vacio">Invalid username.</string>
+    <string name="registro_error_calle_vacia">Enter a valid street.</string>
+    <string name="registro_error_calle">Invalid street.</string>
+    <string name="registro_error_contrasenia_vacia">Invalid password.</string>
+    <string name="registro_error_contrasenias">The passwords don\'t match.</string>
+    <string name="registro_error_usuario_en_uso">
+        The username is already in use. Choose another one.
+    </string>
+
+    <!-- Textos de la actividad principal -->
+    <string name="main_lista">Item List</string>
+    <string name="main_mapa">Map</string>
+    <string name="main_anyadir">Announce</string>
+    <string name="main_perfil">My Profile</string>
+
+
+    <!-- Textos del fragment lista_objetos -->
+    <string name="boton_filtrar">Filter</string>
+
+
+    <!-- Textos del AnuncioActivity-->
+    <string name="contactar">Contact</string>
+    <string name="autor">Owner</string>
+    <string name="descripcion">Description</string>
+    <string name="categoria">Category</string>
+    <string name="loperdien">Where did you lose it?</string>
+    <string name="dejaren">When found, leave it here</string>
+
+
+    <!-- Textos de la pantalla «Añadir anuncio» -->
+    <string name="anyadir_anuncio_titulo">New Announcement</string>
+    <string name="anyadir_anuncio_campo_titulo">Title</string>
+    <string name="anyadir_anuncio_descripcion">Description</string>
+    <string name="anyadir_anuncio_lo_perdi_en">Where did you lose it?</string>
+    <string name="anyadir_anuncio_dejar_en">When found, leave it here:</string>
+    <string name="anyadir_anuncio_categoria">Category</string>
+    <string name="anyadir_anuncio_anyadir">Create Announcement</string>
+
+    <!-- Títulos de las actividades -->
+    <string name="title_activity_main">Welcome to Hysi</string>
+    <string name="title_anyadir_anuncio">Create new announcement</string>
+
+</resources>
